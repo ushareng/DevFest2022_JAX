@@ -28,8 +28,9 @@ DevFest Ludhiana
 DevFest Vizag
 
 Kaggle X Speaker Series
-Kaggle Days Delhi
-PyConf Hyderabad
 
+Kaggle Days Delhi
+
+PyConf Hyderabad
 
 Invited Talk at Locus.sh (Startup)
