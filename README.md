@@ -6,15 +6,25 @@ JAX is a system for high-performance machine learning research. It offers the fa
 The repository contains slides which was used to deliver talk at the following events 
 
 DevFest Guwahati
+
 DevFest Kanpur
+
 DevFest Kozhikode
+
 DevFest Pune
+
 DevFest Kochi
+
 DevFest Raipur
+
 DevFest Jammu
+
 DevFest Bhilai
+
 DevFest Gwalior
+
 DevFest Ludhiana
+
 DevFest Vizag
 
 Kaggle X Speaker Series
